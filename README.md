@@ -1,3 +1,20 @@
-# WXT + React
+# WXT + React Weather Extension
 
-This template should help get you started developing with React in WXT.
+## Installation
+
+1. **Install WXT**:
+    ```bash
+    npm install wxt
+    ```
+
+2. **Install Dependencies**:
+    ```bash
+    npm install
+    ```
+
+## Running the App
+
+Start the development server:
+```bash
+npm run dev
+```
